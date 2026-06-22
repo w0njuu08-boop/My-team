@@ -1,0 +1,8 @@
+{
+  "appId": "com.namandelivery.app",
+  "appName": "나만의 배달",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  }
+}
